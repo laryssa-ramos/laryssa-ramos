@@ -13,7 +13,7 @@
 <details>
   <summary>More about me</summary>
 
-  - I am 25 years old, currently living in Brazil. I have have experience with JavaScript, Angular, Java, HTML e CSS.
+  - I am 25 years old, currently living in Brazil. I have experience with JavaScript, Angular, Java, HTML e CSS.
 
   - I enjoy reading good books, listening to music, as well as playing the guitar, piano, and ukulele :)
 </details>
