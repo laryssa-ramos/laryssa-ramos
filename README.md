@@ -6,17 +6,8 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Laryssa! A passionate Web Developer student from Brazil. I am looking for my first job opportunity.
+  Hi, I'm Laryssa! A passionate Web Developer student from Brazil.
 </p>
-
-<!-- Dropdown -->
-<details>
-  <summary>More about me</summary>
-
-  - I am 25 years old, currently living in Brazil. I have experience with JavaScript, Angular, Java, HTML e CSS.
-
-  - I enjoy reading good books, listening to music, as well as playing the guitar, piano, and ukulele :)
-</details>
 
 <!-- Links -->
 
