@@ -5,21 +5,16 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  Hi, I'm Laryssa! A passionate Web Developer student from Brazil.
-</p>
 
 <!-- Links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/laryssa-souza-ramos)
-[![Linktree](	https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/laryssa.ramos)
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=laryssa-ramos&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
+## Algumas coisinhas que fiz
 - [Studio Luci Hair Therapy](https://lucihair.vercel.app/)
 - [Uai Neia](https://uaineia.vercel.app/)
 - [Neia Suspiros](https://neiasuspiros.vercel.app/)
