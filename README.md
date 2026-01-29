@@ -7,18 +7,13 @@
 <!-- Presentation -->
 
 <!-- Links -->
-
+##Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/laryssa-souza-ramos)
 
 
 <!-- GithubStats -->
 
 <!-- Portfolio -->
-## Algumas coisinhas que fiz
-- [Studio Luci Hair Therapy](https://lucihair.vercel.app/)
-- [Uai Neia](https://uaineia.vercel.app/)
-- [Neia Suspiros](https://neiasuspiros.vercel.app/)
-- [Desafios Frontend Mentor](https://frontendmentor-kappa-nine.vercel.app/)
 
 ## Skills
 <!-- Skills: Programming Languages -->
